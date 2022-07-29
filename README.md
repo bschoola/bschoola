@@ -4,7 +4,7 @@ I'm a .NET C# developer since 2007
 
 ## Contact
 
- See my profile in [Linkedin](https://www.linkedin.com/in/bruno-gouveia-schoola-795b8b21/) 
+ See my profile in [Linkedin](https://www.linkedin.com/in/bruno-gouveia-schoola-795b8b21/?locale=en_US) 
 
 
 ## Techonogy

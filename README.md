@@ -44,8 +44,8 @@ Languages:
 
 Studing:
 • Aws
-* React Web
-* React Native
+• React Web
+• React Native
 ```
 Thank you all.
 

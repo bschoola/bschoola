@@ -4,7 +4,7 @@ I'm a .NET C# developer since 2007
 
 ## Contact
 
- See my profile in [Linkedin](https://www.linkedin.com/in/bruno-gouveia-schoola-795b8b21/?locale=en_US) 
+ See my profile in 📫 [Linkedin](https://www.linkedin.com/in/bruno-gouveia-schoola-795b8b21/?locale=en_US) 
 
 
 ## Technology
@@ -44,6 +44,8 @@ Languages:
 
 Studing:
 • Aws
+* React Web
+* React Native
 ```
 Thank you all.
 

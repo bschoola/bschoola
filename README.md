@@ -10,7 +10,7 @@ I'm a .NET C# developer since 2007
 ## Technology
 
 ```python
-Tech Leader Backend 
+Full Stack Developer (BE-Heavy) 
 
 • DevOps (Agile Methodology)
 

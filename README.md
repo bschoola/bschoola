@@ -15,7 +15,7 @@ Full Stack Developer (BE-Heavy)
 • DevOps (Agile Methodology)
 
 Technologies:
-• .NET Core, .NET Framework, Web API, Web Services, Windows Services, Workers, Angular, React Js, Dapper, Entity Framework and all microsoft projects using dependence injection.
+• .NET Core, GoLang, .NET Framework, Web API, Web Services, Windows Services, Workers, Angular, React Js, Dapper, Entity Framework and all microsoft projects using dependence injection.
 • Salesforce (basic knowledge)
 • DevOps - Azure (Boards, Pipelines, Releases).
 • Azure Repos - GIT

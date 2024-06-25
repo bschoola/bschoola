@@ -5,6 +5,7 @@ I'm a .NET C# developer since 2007
 ## Contact
 
  See my profile in 📫 [Linkedin](https://www.linkedin.com/in/bruno-gouveia-schoola-795b8b21/?locale=en_US) 
+ Check also in [HackerRank](https://www.hackerrank.com/profile/bschoola)
 
 
 ## Technology

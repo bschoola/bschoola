@@ -17,12 +17,14 @@ Full Stack Developer (BE-Heavy)
 • DevOps (Agile Methodology)
 
 Technologies:
-• .NET Core, GoLang, .NET Framework, Web API, Web Services, Windows Services, Workers, Angular, React Js, Dapper, Entity Framework and all microsoft projects using dependence injection.
+• .NET Core, .NET Framework, Web API, Web Services, Windows Services, Workers, Angular, React Js, Dapper, Entity Framework and all microsoft projects using dependence injection.
 • Salesforce (basic knowledge)
 • DevOps - Azure (Boards, Pipelines, Releases).
 • Azure Repos - GIT
 • Docker
 • RabbitMQ
+• Python
+
 
 Databases:
 • SQL Server
@@ -49,6 +51,10 @@ Studing:
 • React Web
 • React Native
 ```
+
+- 🌱 I’m currently learning more about Angular and also about Bubble (No Code).
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bruno-gouveia-schoola-795b8b21/)
+
 Thank you all.
 
 <!--

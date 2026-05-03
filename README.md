@@ -1,61 +1,39 @@
-# Hi There!
+# Hi, I'm Bruno Gouveia Schoola 👋
 
-I'm a .NET C# developer since 2007
+Senior Software Engineer with 15+ years of experience building scalable, 
+high-impact systems. Specialized in the .NET ecosystem, cloud architecture, 
+and distributed systems. Currently working remotely on a global logistics 
+platform at Air Liquide (Alizent group).
 
-## Contact
+**Open to remote opportunities with international teams.**
 
- See my profile in 📫 [Linkedin](https://www.linkedin.com/in/bruno-gouveia-schoola-795b8b21/?locale=en_US) 
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+`C#` `.NET Core` `ASP.NET` `REST APIs` `Microservices` `RabbitMQ` `Entity Framework` `Dapper`
+
+**Frontend**
+`Angular` `React` `TypeScript` `JavaScript`
+
+**Cloud & DevOps**
+`Azure` `Azure DevOps` `Docker` `CI/CD` `Git`
+
+**Databases**
+`SQL Server` `Redis` `MySql`
+
+**Currently Learning**
+`AI/ML` `LLMs` `Generative AI` `AWS`
+
+---
+
+## 📌 Contact
+
+ See my profile in 📫 [Linkedin](https://www.linkedin.com/in/bruno-gouveia-schoola) 
  
  Check also in [HackerRank](https://www.hackerrank.com/profile/bschoola)
 
-
-## Technology
-
-```python
-Full Stack Developer (BE-Heavy) 
-
-• DevOps (Agile Methodology)
-
-Technologies:
-• .NET Core, .NET Framework, Web API, Web Services, Windows Services, Workers, Angular, React Js, Dapper, Entity Framework and all microsoft projects using dependence injection.
-• Salesforce (basic knowledge)
-• DevOps - Azure (Boards, Pipelines, Releases).
-• Azure Repos - GIT
-• Docker
-• RabbitMQ
-• Python
-
-
-Databases:
-• SQL Server
-• Redis
-
-Tools:
-• Azure (Pipelines, Continuous Deployment, board)
-• Visual Studio
-• Visual Studio Code
-• SQL Server
-• Postman
-• SoapUi
-
-Languages:
-• C#
-• Javascript
-• VB.NET
-• SQL
-• Angular JS
-• React
-
-Studing:
-• Aws
-• React Web
-• React Native
-```
-
-- 🌱 I’m currently learning more about Angular and also about Bubble (No Code).
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bruno-gouveia-schoola-795b8b21/)
-
-Thank you all.
 
 <!--
 **bschoola/bschoola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,10 +12,10 @@ platform.
 ## 🛠️ Tech Stack
 
 **Backend**
-`C#` `.NET Core` `ASP.NET` `REST APIs` `Microservices` `RabbitMQ` `Entity Framework` `Dapper`
+`C#` `.NET Core` `Python` `REST APIs` `Microservices` `RabbitMQ` `Entity Framework` `Dapper`
 
 **Frontend**
-`Angular` `React` `TypeScript` `JavaScript`
+`Angular` `React` `TypeScript` `JavaScript` `ASP.NET`
 
 **Cloud & DevOps**
 `Azure` `Azure DevOps` `Docker` `CI/CD` `Git` `AWS`

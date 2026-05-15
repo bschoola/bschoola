@@ -1,9 +1,9 @@
 # Hi, I'm Bruno Gouveia Schoola 👋
 
-Senior Software Engineer with 15+ years of experience building scalable, 
+AI Driven Developer with 15+ years of experience building scalable, 
 high-impact systems. Specialized in the .NET ecosystem, cloud architecture, 
 and distributed systems. Currently working remotely on a global logistics 
-platform at Air Liquide (Alizent group).
+platform.
 
 **Open to remote opportunities with international teams.**
 
@@ -18,13 +18,13 @@ platform at Air Liquide (Alizent group).
 `Angular` `React` `TypeScript` `JavaScript`
 
 **Cloud & DevOps**
-`Azure` `Azure DevOps` `Docker` `CI/CD` `Git`
+`Azure` `Azure DevOps` `Docker` `CI/CD` `Git` `AWS`
 
 **Databases**
 `SQL Server` `Redis` `MySql`
 
 **Currently Learning**
-`AI/ML` `LLMs` `Generative AI` `AWS`
+`AI/ML` `LLMs` `Generative AI`
 
 ---
 
